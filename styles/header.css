@@ -12,7 +12,7 @@
   }
 
   div:nth-child(3) {
-    justify-self: column;
+    justify-self: end;
   }
 }
 
